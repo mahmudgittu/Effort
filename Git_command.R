@@ -14,3 +14,9 @@ git init
 git add . 
 # Commit these changes to the git repository 
 git commit -m "Initial commit" 
+# next step is to copy the 
+# “Push an existing repository from the command line” from git website
+# to git bash
+
+
+
